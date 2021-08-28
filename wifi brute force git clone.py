@@ -1,9 +1,5 @@
-git clone https://github.com/n00py/WPForce
 git clone https://github.com/cinquemb/WifiBruteCrack.git
 git clone https://github.com/P0cL4bs/WiFi-Pumpkin.git
-git clone https://github.com/RecepGunes01/WordPress-Brute-Force
-git clone https://github.com/1N3/BruteX
-git clone https://github.com/FluxionNetwork/fluxion
 git clone https://github.com/awkman/pywifi.git
 git clone https://github.com/53k41iga/wpa2-psk-brute-force.git
 git clone https://github.com/madeindjs/Wifi_BruteForce.git
